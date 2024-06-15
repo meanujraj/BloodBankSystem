@@ -1,5 +1,3 @@
-
-```markdown
 # Blood Bank  System
 
 ## Introduction
@@ -37,4 +35,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 - Lakshmi Narain College of Technology Excellence, Bhopal for providing the opportunity and resources for this project.
 - Our project guide and mentors for their continuous support and guidance.
-```
+
